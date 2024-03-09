@@ -3,7 +3,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-scipy
-statsmodels
-ipykernel
--e .
+catboost
+xgboost
+#-e .
